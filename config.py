@@ -1,0 +1,9 @@
+BOT_TOKEN = "7499956970:AAE5U2QpQthPSe1zBwKc5b6ZNeW3EV-KbB4"
+
+SQLALCHEMY_DATABASE_URI = "sqlite:///finhelper.db"
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+
+CURRENCY_API_URL = "https://api.exchangerate.host/latest"
+LOCAL_API_URL = "http://127.0.0.1:5000"
+
+DAILY_SUMMARY_HOUR = 20
